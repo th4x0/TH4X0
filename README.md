@@ -6,13 +6,13 @@ I love cyberSecurity _&_ Technology.
 
 ## Tech and Tools
 
-![Python](https://img.shields.io/badge/Python-black?logo=python)
-![Django](https://img.shields.io/badge/Django-black?logo=django)
-![Linux](https://img.shields.io/badge/Linux-black?logo=linux)
-![Git](https://img.shields.io/badge/Git-black?logo=git)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=javascript)
-![HTML](https://img.shields.io/badge/HTML5-black?logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-black?logo=css3)
+![Python](https://img.shields.io/badge/Python-gray?logo=python)
+![Django](https://img.shields.io/badge/Django-gray?logo=django)
+![Linux](https://img.shields.io/badge/Linux-gray?logo=linux)
+![Git](https://img.shields.io/badge/Git-gray?logo=git)
+![JavaScript](https://img.shields.io/badge/JavaScript-gray?logo=javascript)
+![HTML](https://img.shields.io/badge/HTML5-gray?logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-gray?logo=css3)
 
 
 
