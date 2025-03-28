@@ -1,8 +1,8 @@
 ![wp9116167-cooding-4k-wallpapers](https://github.com/user-attachments/assets/ba45afe1-58d0-438a-8803-aa907da4e57b)
 
 
-## _Hye, Im Taha_
-_im a ?? in cybersecurity. i like to code.
+## Hye, Im _Taha_
+I love cyberSecurity _&_ Technology.
 
 ## Tech and Tools
 
@@ -15,9 +15,6 @@ _im a ?? in cybersecurity. i like to code.
 ![CSS](https://img.shields.io/badge/CSS3-blue?logo=css3)
 
 
-
-
-<!-- ![vuejs](https://img.shields.io/badge/-vue.js-313131?logo=vue.js&style=for-the-badge&logoColor=4FC08D) -->
 
 
 ## My review
