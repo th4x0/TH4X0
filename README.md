@@ -9,11 +9,13 @@ I love cyberSecurity _&_ Technology.
 ![Python](https://img.shields.io/badge/Python-0d1117?logo=python)
 ![Django](https://img.shields.io/badge/Django-0d1117?logo=django&logoColor=00ff00)
 ![Linux](https://img.shields.io/badge/Linux-0d1117?logo=linux&logoColor=fff)
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?logo=mysql)
 ![C++](https://img.shields.io/badge/C++-0d1117?logo=cplusplus&logoColor=blue)
-![Git](https://img.shields.io/badge/Git-0d1117?logo=git)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?logo=javascript)
+![Git](https://img.shields.io/badge/Git-0d1117?logo=git)\n
 ![HTML](https://img.shields.io/badge/HTML5-0d1117?logo=html5)
 ![CSS](https://img.shields.io/badge/CSS3-0d1117?logo=css3&logoColor=blue)
+
 
 
 
