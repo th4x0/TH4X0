@@ -7,7 +7,7 @@ I love cyberSecurity _&_ Technology.
 ## Tech and Tools
 
 ![Python](https://img.shields.io/badge/Python-gray?logo=python)
-![Django](https://img.shields.io/badge/Django-gray?logo=django)
+![Django](https://img.shields.io/badge/Django-gray?logo=django&logoColor=00ff00)
 ![Linux](https://img.shields.io/badge/Linux-gray?logo=linux)
 ![Git](https://img.shields.io/badge/Git-gray?logo=git)
 ![JavaScript](https://img.shields.io/badge/JavaScript-gray?logo=javascript)
