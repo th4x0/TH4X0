@@ -12,7 +12,7 @@ I love cyberSecurity _&_ Technology.
 ![MySQL](https://img.shields.io/badge/MySQL-0d1117?logo=mysql)
 ![C++](https://img.shields.io/badge/C++-0d1117?logo=cplusplus&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?logo=javascript)
-![Git](https://img.shields.io/badge/Git-0d1117?logo=git)\n
+![Git](https://img.shields.io/badge/Git-0d1117?logo=git)
 ![HTML](https://img.shields.io/badge/HTML5-0d1117?logo=html5)
 ![CSS](https://img.shields.io/badge/CSS3-0d1117?logo=css3&logoColor=blue)
 
