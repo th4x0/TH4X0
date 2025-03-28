@@ -6,14 +6,14 @@ I love cyberSecurity _&_ Technology.
 
 ## Tech and Tools
 
-![Python](https://img.shields.io/badge/Python-gray?logo=python)
-![Django](https://img.shields.io/badge/Django-gray?logo=django&logoColor=00ff00)
-![Linux](https://img.shields.io/badge/Linux-gray?logo=linux&logoColor=fff)
-![C++](https://img.shields.io/badge/C++-gray?logo=cplusplus&logoColor=blue)
-![Git](https://img.shields.io/badge/Git-gray?logo=git)
-![JavaScript](https://img.shields.io/badge/JavaScript-gray?logo=javascript)
-![HTML](https://img.shields.io/badge/HTML5-gray?logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-gray?logo=css3&logoColor=blue)
+![Python](https://img.shields.io/badge/Python-0d1117?logo=python)
+![Django](https://img.shields.io/badge/Django-0d1117?logo=django&logoColor=00ff00)
+![Linux](https://img.shields.io/badge/Linux-0d1117?logo=linux&logoColor=fff)
+![C++](https://img.shields.io/badge/C++-0d1117?logo=cplusplus&logoColor=blue)
+![Git](https://img.shields.io/badge/Git-0d1117?logo=git)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?logo=javascript)
+![HTML](https://img.shields.io/badge/HTML5-0d1117?logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-0d1117?logo=css3&logoColor=blue)
 
 
 
