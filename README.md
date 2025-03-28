@@ -6,13 +6,14 @@ _im a ?? in cybersecurity. i like to code.
 
 ## Tech and Tools
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
-![Django](https://img.shields.io/badge/Django-4.x-green?logo=django)
-![Linux](https://img.shields.io/badge/Linux-Ubuntu-orange?logo=linux)
-![Git](https://img.shields.io/badge/Git-Repo-red?logo=git)
-![HTML](https://img.shields.io/badge/HTML5-Markup-orange?logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-Styling-blue?logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript)
+![Python](https://img.shields.io/badge/Python-blue?logo=python)
+![Django](https://img.shields.io/badge/Django-green?logo=django)
+![Linux](https://img.shields.io/badge/Linux-black?logo=linux)
+![Git](https://img.shields.io/badge/Git-red?logo=git)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
+![HTML](https://img.shields.io/badge/HTML5-orange?logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-blue?logo=css3)
+
 
 
 
