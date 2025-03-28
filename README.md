@@ -32,9 +32,8 @@ I love cyberSecurity _&_ Technology.
 
 ## Me on social Networks
 > |Instagram|Twitter|More links|
-> |:--:|:-------:|:-----:|:------:|
-> |[![instagram]([https://www.citypng.com/public/uploads/preview/png-red-neon-instagram-logo-icon-701751695041030u9chlqcljz.png](https://static.cdninstagram.com/rsrc.php/y4/r/QaBlI0OZiks.ico))](https://www.instagram.com/m2007taha)|[![twitter](
-https://pbs.twimg.com/profile_images/1683899100922511378/5lY42eHs_bigger.jpg)](https://twitter.com/userMtaha)|[![linktr](https://assets.production.linktr.ee/4491f8ee33e206e151c91190c1fff1ec857390f2/favicon/favicon.png)](https://t.me/bitorbit)|
+> |:--:|:-------:|:-----:|
+> |[![instagram]([https://www.citypng.com/public/uploads/preview/png-red-neon-instagram-logo-icon-701751695041030u9chlqcljz.png](https://static.cdninstagram.com/rsrc.php/y4/r/QaBlI0OZiks.ico))](https://www.instagram.com/m2007taha)|[![twitter](https://pbs.twimg.com/profile_images/1683899100922511378/5lY42eHs_bigger.jpg)](https://twitter.com/userMtaha)|[![linktr](https://assets.production.linktr.ee/4491f8ee33e206e151c91190c1fff1ec857390f2/favicon/favicon.png)](https://t.me/bitorbit)|
 
 
 ### Notes
